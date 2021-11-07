@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JuanSch
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently working as an robotic process automation developer at Agnosticit
+- 🌱 I’m currently working as an robotic process automation developer useing BluePrism at Agnosticit
+- 📚 I’m currently studeing a degree in computer science at the national university of La Plata 
 - 📫 You can reach me on linkedin @juanSchachner
