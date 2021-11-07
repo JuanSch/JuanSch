@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JuanSch
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently working as an robotic process automation developer at Agnosticit
+- 📫 You can reach me on linkedin @juanSchachner
